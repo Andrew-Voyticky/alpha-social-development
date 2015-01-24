@@ -29,10 +29,10 @@ Add to your hosts file a record:
 
 2. Memory. You will need at least 512 MB of RAM (but probably more, and the more the better).
 
-3. Hard disk space. By default project enviropment size growing dynamicly so we recomend reserve minimum free 1GB for it. 
+3. Hard disk space. By default project enviropment size grows dynamically so we recommend that you reserve minimum available 1GB for it. 
 
-4. If you need change virtual hardware configuration values please check this [page]( https://docs.vagrantup.com/v2/virtualbox/configuration.html)
+4. If you need to change virtual hardware configuration values please check this [page]( https://docs.vagrantup.com/v2/virtualbox/configuration.html)
 
 ##Need Help?
 
-Let us have it! Don't hesitate to open a new issue on GitHub if you run into trouble or have any tips that we need to know. 
+Let us have it! Don't hesitate to open a new issue on GitHub if you run into any trouble or have any tips that we need to know. Our email, as always: sassyhelp@alphadirectorate.com.
